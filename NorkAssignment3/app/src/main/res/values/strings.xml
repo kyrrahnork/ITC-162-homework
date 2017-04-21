@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temp Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fahrenheit_label">Degrees Fahrenheit</string>
+    <string name="degrees">Degrees</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celcius">Celsius</string>
+    <string name="degrees_celcius"></string>
+    <string name="title_activity_test">Test Activity</string>
+    <string name="submitbutton">Submit</string>
+    <string name="fahrenheitStart">100</string>
+
+</resources>
